@@ -1,12 +1,12 @@
 # 🎓 Placement Eligibility Streamlit Application
 
-## 📌 Project Overview
+##  Project Overview
 This is a complete end-to-end **Placement Eligibility Web Application** built using:
 
-- 🐍 Python (with OOP concepts)
-- 🗃️ MySQL
-- 🌐 Streamlit
-- 🧪 Faker (for synthetic data generation)
+-  Python (with OOP concepts)
+-  MySQL
+-  Streamlit
+-  Faker (for synthetic data generation)
 
 It enables users to:
 - Filter eligible students based on technical and soft skills.
@@ -15,7 +15,7 @@ It enables users to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Layer         | Technology         |
 |---------------|--------------------|
@@ -41,73 +41,51 @@ placement_eligibility_app/
 │ └── placements.csv
 ├── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
-## 🚀 Features
+##  Features
 
 ### 1️⃣ Eligibility Checker
-- 🔎 Filter students based on:
+-  Filter students based on:
   - Problems solved
   - Average soft skills score
   - Mock interview score
-- 📦 Batch-wise filtering
-- 📥 Download eligible student list as CSV
+-  Batch-wise filtering
+-  Download eligible student list as CSV
 
 ### 2️⃣ Placement Insights
-- 📊 Average project score per batch
-- 📉 Top 5 not placed eligible students
-- 🧭 Placement status distribution
-- 💻 Most popular programming languages
-- 💼 Highest placement package by batch
+-  Average project score per batch
+-  Top 5 not placed eligible students
+-  Placement status distribution
+-  Most popular programming languages
+-  Highest placement package by batch
 
 ---
 
 ## 💻 How to Run
 
-### 🔧 Prerequisites
+### Prerequisites
 - MySQL Server installed and running
 - Python 3.8+ and `pip` installed
-- Install required packages:
-
-```bash
+- Install required packages
 pip install streamlit mysql-connector-python pandas faker
-⚙️ Setup Steps
-Create the database:
-
-sql
-Copy
-Edit
+### Setup Steps
+### 1.Create the database:
 Run: placement_db.sql inside MySQL
-Update your MySQL credentials in:
-
+### 2.Update your MySQL credentials in:
 data_generator_mysql.py
-
 app.py
-
-📡 Generate Data
-bash
-Copy
-Edit
+###  Generate Data
 python data_generator_mysql.py
-🖥️ Run Streamlit App
-bash
-Copy
-Edit
+### Run Streamlit App
 streamlit run app.py
-📁 Downloadable CSVs (Auto-generated)
+### 📁Downloadable CSVs (Auto-generated)
 students.csv
-
 programming.csv
-
 soft_skills.csv
-
 placements.csv
 
-🧠 Sample SQL Queries Used
+### Sample SQL Queries Used
 Average project score per batch
 
 Top 5 not placed eligible students
@@ -124,6 +102,6 @@ Internship count by batch
 
 Students with certifications
 
-👩‍💻 Author
+### 👩‍💻 Author
 Name: Suwathi
 Tech Stack: Python | Streamlit | MySQL | Faker | OOP
