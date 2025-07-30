@@ -1,18 +1,18 @@
-#Placement Eligibility Streamlit Application:
-### Project Overview:
+# Placement Eligibility Streamlit Application:
+## Project Overview:
 This project is a complete end-to-end Placement Eligibility Web Application built using:
 •	Python (OOP)
 •	MySQL
 •	Streamlit
 •	Faker (for data generation)
 It helps users filter eligible students based on technical and soft skill parameters, visualize placement statistics, and download data in CSV format.
-### Technologies Used:
+## Technologies Used:
 Frontend          -	  Streamlit
 Backend           -   MySQL
 Data Generation   -   Faker (Python)
 Data Handling	  -   Pandas
 Code Architecture -	  OOP in Python
-### Project Structure:
+## Project Structure:
 placement_eligibility_app/
 │
 ├── app.py                    # Main Streamlit App
@@ -24,7 +24,7 @@ placement_eligibility_app/
 │   ├── soft_skills.csv
 │   └── placements.csv
 ├── README                 # Project documentation
-### Features:
+## Features:
 •	✅ Generate synthetic data (500 students) using OOP + Faker
 •	✅ Store and manage data in MySQL
 •	✅ Streamlit-based web app in 2 operations:
@@ -37,20 +37,20 @@ placement_eligibility_app/
 •	Top 5 not placed eligible students
 •	Placement status distribution
 •	Popular programming languages
-###💻 How to Run:
+## 💻 How to Run:
 •	Set up MySQL
 •	Create the placement_db using schema.sql
 •	Update MySQL credentials in both .py files
-•	Generate Data
+### Generate Data:
 •	python data_generator_mysql.py
-•	Run the Streamlit App:
+### Run the Streamlit App:
 •	streamlit run app.py
-###📁 Downloadable CSVs (Generated Automatically):
+## 📁 Downloadable CSVs (Generated Automatically):
 •	students.csv
 •	programming.csv
 •	soft_skills.csv
 •	placements.csv
-### Sample SQL Queries Used:
+## Sample SQL Queries Used:
 •	Average Project Score per Batch
 •	Top 5 Not Placed Students (Eligible)
 •	Placement Status Distribution
@@ -58,7 +58,7 @@ placement_eligibility_app/
 •	Highest Package per Batch
 •	Company-wise Placement Count
 •	Batch-wise Soft Skills Average
-###👨‍💻 Author:
+## 👨‍💻 Author:
 Name: Suwathi
 Tech Stack: Python | Streamlit | MySQL | Faker | OOP
 
