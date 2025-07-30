@@ -1,0 +1,501 @@
+placement_id,student_id,mock_interview_score,internships_completed,placement_status,company_name,placement_package,interview_rounds_cleared,placement_date
+1,1,55,1,Placed,"Hopkins, Hoffman and Fisher",9.2,4,2025-04-09
+2,2,48,3,Not Placed,NA,0.0,0,2025-07-29
+3,3,87,2,Placed,"Anderson, Lee and Colon",7.25,1,2025-07-15
+4,4,44,0,Placed,Chambers-Clarke,9.79,3,2025-02-21
+5,5,93,3,Not Placed,NA,0.0,0,2025-07-29
+6,6,77,1,Not Placed,NA,0.0,0,2025-07-29
+7,7,90,1,Not Placed,NA,0.0,0,2025-07-29
+8,8,83,3,Placed,Briggs Group,5.91,2,2025-04-30
+9,9,94,3,Not Placed,NA,0.0,0,2025-07-29
+10,10,74,2,Not Placed,NA,0.0,0,2025-07-29
+11,11,59,0,Placed,Chase-Wang,6.24,5,2025-05-15
+12,12,82,3,Not Placed,NA,0.0,0,2025-07-29
+13,13,93,3,Placed,Maldonado PLC,4.56,3,2025-03-10
+14,14,90,1,Not Placed,NA,0.0,0,2025-07-29
+15,15,82,1,Not Placed,NA,0.0,0,2025-07-29
+16,16,69,1,Placed,"Flowers, Lawrence and Stein",10.8,2,2025-03-29
+17,17,82,0,Not Placed,NA,0.0,0,2025-07-29
+18,18,84,1,Not Placed,NA,0.0,0,2025-07-29
+19,19,65,2,Not Placed,NA,0.0,0,2025-07-29
+20,20,62,0,Not Placed,NA,0.0,0,2025-07-29
+21,21,44,1,Placed,"Payne, Campbell and Robinson",8.08,3,2025-07-26
+22,22,97,3,Placed,Forbes-Chavez,11.4,5,2025-02-14
+23,23,69,2,Placed,Johnson-Stuart,9.04,5,2025-04-06
+24,24,69,0,Not Placed,NA,0.0,0,2025-07-29
+25,25,93,2,Not Placed,NA,0.0,0,2025-07-29
+26,26,91,0,Placed,Green Group,9.2,1,2025-01-12
+27,27,43,3,Not Placed,NA,0.0,0,2025-07-29
+28,28,71,0,Placed,Smith-Copeland,7.22,3,2025-02-20
+29,29,88,3,Not Placed,NA,0.0,0,2025-07-29
+30,30,89,1,Placed,Morgan Group,7.27,1,2025-01-02
+31,31,86,3,Placed,Roberts LLC,3.42,1,2025-07-17
+32,32,95,1,Placed,Blankenship-Bradford,3.82,2,2025-06-13
+33,33,47,3,Placed,"Strickland, Brown and Cook",11.52,2,2025-05-28
+34,34,78,2,Placed,Burch-Clark,14.78,3,2025-05-22
+35,35,54,3,Not Placed,NA,0.0,0,2025-07-29
+36,36,65,2,Not Placed,NA,0.0,0,2025-07-29
+37,37,82,3,Not Placed,NA,0.0,0,2025-07-29
+38,38,62,2,Not Placed,NA,0.0,0,2025-07-29
+39,39,86,0,Not Placed,NA,0.0,0,2025-07-29
+40,40,96,0,Placed,Kim-Rogers,12.85,5,2025-05-30
+41,41,90,2,Not Placed,NA,0.0,0,2025-07-29
+42,42,51,3,Placed,Mathis and Sons,3.43,4,2025-07-19
+43,43,73,1,Not Placed,NA,0.0,0,2025-07-29
+44,44,53,2,Not Placed,NA,0.0,0,2025-07-29
+45,45,76,2,Placed,Clements Ltd,4.85,5,2025-02-10
+46,46,53,1,Placed,"Fleming, Davis and Myers",8.04,5,2025-05-09
+47,47,59,1,Not Placed,NA,0.0,0,2025-07-29
+48,48,99,1,Placed,"Barnes, Kim and Gomez",11.87,4,2025-06-24
+49,49,67,0,Not Placed,NA,0.0,0,2025-07-29
+50,50,47,3,Not Placed,NA,0.0,0,2025-07-29
+51,51,58,2,Not Placed,NA,0.0,0,2025-07-29
+52,52,97,1,Placed,Davis Ltd,8.52,5,2025-06-08
+53,53,90,0,Not Placed,NA,0.0,0,2025-07-29
+54,54,45,1,Placed,"Davenport, Wheeler and Woods",12.59,1,2025-04-26
+55,55,48,3,Not Placed,NA,0.0,0,2025-07-29
+56,56,84,2,Placed,Alvarez-Thompson,3.52,5,2025-03-12
+57,57,75,0,Not Placed,NA,0.0,0,2025-07-29
+58,58,65,1,Placed,Lyons-Harris,7.21,1,2025-03-26
+59,59,54,1,Not Placed,NA,0.0,0,2025-07-29
+60,60,51,3,Not Placed,NA,0.0,0,2025-07-29
+61,61,79,1,Not Placed,NA,0.0,0,2025-07-29
+62,62,95,3,Placed,Hall Ltd,9.5,3,2025-06-12
+63,63,76,1,Not Placed,NA,0.0,0,2025-07-29
+64,64,44,2,Not Placed,NA,0.0,0,2025-07-29
+65,65,83,0,Not Placed,NA,0.0,0,2025-07-29
+66,66,43,0,Placed,Gonzalez Inc,8.87,1,2025-05-14
+67,67,44,2,Not Placed,NA,0.0,0,2025-07-29
+68,68,59,2,Placed,Mills-Avila,7.75,5,2025-07-23
+69,69,66,3,Placed,Rogers Group,3.56,1,2025-05-13
+70,70,63,0,Placed,Brown and Sons,11.17,1,2025-03-25
+71,71,44,0,Not Placed,NA,0.0,0,2025-07-29
+72,72,46,0,Not Placed,NA,0.0,0,2025-07-29
+73,73,42,1,Not Placed,NA,0.0,0,2025-07-29
+74,74,54,2,Placed,"Hebert, Moore and Allen",12.71,4,2025-03-13
+75,75,90,1,Not Placed,NA,0.0,0,2025-07-29
+76,76,66,1,Not Placed,NA,0.0,0,2025-07-29
+77,77,72,1,Placed,Jacobs-Edwards,12.7,2,2025-04-09
+78,78,77,2,Placed,Woodard-Norris,11.71,3,2025-07-01
+79,79,53,1,Not Placed,NA,0.0,0,2025-07-29
+80,80,52,3,Placed,"Soto, Murray and Stanley",10.48,5,2025-03-26
+81,81,62,3,Not Placed,NA,0.0,0,2025-07-29
+82,82,94,1,Placed,"Moore, Hernandez and Fields",13.16,1,2025-03-04
+83,83,100,3,Placed,"Brown, Adams and Kelly",3.97,5,2025-01-23
+84,84,79,2,Placed,Norman-Cordova,8.52,3,2025-02-08
+85,85,64,2,Placed,Daniels-Shea,3.7,4,2025-01-02
+86,86,93,0,Placed,"Nguyen, Taylor and Garza",9.16,5,2025-06-02
+87,87,69,3,Not Placed,NA,0.0,0,2025-07-29
+88,88,80,1,Placed,Bennett-Fields,9.4,3,2025-04-26
+89,89,61,2,Not Placed,NA,0.0,0,2025-07-29
+90,90,50,1,Placed,"Taylor, Faulkner and Torres",13.73,2,2025-05-11
+91,91,100,3,Not Placed,NA,0.0,0,2025-07-29
+92,92,67,0,Placed,"Terrell, Farrell and Oconnell",6.59,2,2025-01-14
+93,93,41,0,Placed,Johnson Group,3.05,2,2025-04-19
+94,94,65,2,Not Placed,NA,0.0,0,2025-07-29
+95,95,66,2,Placed,"Rivas, Espinoza and Harris",6.94,2,2025-05-25
+96,96,42,0,Placed,"Reeves, Smith and Mejia",6.85,1,2025-07-18
+97,97,71,0,Placed,Edwards-Smith,13.77,4,2025-05-08
+98,98,68,1,Placed,Davis PLC,9.43,5,2025-03-27
+99,99,85,3,Not Placed,NA,0.0,0,2025-07-29
+100,100,66,2,Not Placed,NA,0.0,0,2025-07-29
+101,101,43,1,Not Placed,NA,0.0,0,2025-07-29
+102,102,68,3,Placed,White-Green,5.64,3,2025-03-09
+103,103,71,3,Placed,Shepherd-Evans,14.54,5,2025-04-25
+104,104,65,3,Not Placed,NA,0.0,0,2025-07-29
+105,105,51,2,Placed,"Lowe, Flores and Lewis",12.8,1,2025-07-13
+106,106,86,0,Not Placed,NA,0.0,0,2025-07-29
+107,107,80,2,Placed,"Bauer, Banks and Jensen",7.28,5,2025-04-15
+108,108,78,0,Placed,Collins-Cook,9.72,5,2025-03-16
+109,109,41,1,Placed,Spencer-Russell,8.27,2,2025-04-06
+110,110,59,3,Not Placed,NA,0.0,0,2025-07-29
+111,111,63,1,Not Placed,NA,0.0,0,2025-07-29
+112,112,54,2,Not Placed,NA,0.0,0,2025-07-29
+113,113,62,3,Placed,"Burns, Johnson and Cantu",8.27,1,2025-02-01
+114,114,53,2,Not Placed,NA,0.0,0,2025-07-29
+115,115,44,2,Placed,Parrish-Stevens,12.72,2,2025-05-14
+116,116,95,1,Placed,"Oneill, Barnes and Chambers",7.0,5,2025-06-04
+117,117,51,3,Placed,Silva-Smith,11.29,5,2025-07-26
+118,118,99,2,Not Placed,NA,0.0,0,2025-07-29
+119,119,91,2,Placed,Diaz Group,12.67,3,2025-05-12
+120,120,43,2,Not Placed,NA,0.0,0,2025-07-29
+121,121,93,1,Not Placed,NA,0.0,0,2025-07-29
+122,122,63,1,Not Placed,NA,0.0,0,2025-07-29
+123,123,86,0,Not Placed,NA,0.0,0,2025-07-29
+124,124,55,3,Placed,Hunter-Garcia,14.8,4,2025-05-06
+125,125,87,0,Placed,"Jacobs, Adams and Gibbs",10.65,4,2025-07-11
+126,126,82,0,Placed,Carter LLC,7.25,5,2025-01-16
+127,127,98,0,Placed,"Madden, Baker and Thompson",7.96,1,2025-01-14
+128,128,43,3,Not Placed,NA,0.0,0,2025-07-29
+129,129,82,0,Not Placed,NA,0.0,0,2025-07-29
+130,130,68,2,Not Placed,NA,0.0,0,2025-07-29
+131,131,85,1,Not Placed,NA,0.0,0,2025-07-29
+132,132,69,1,Not Placed,NA,0.0,0,2025-07-29
+133,133,45,3,Placed,"Ryan, Smith and Rogers",9.02,3,2025-07-15
+134,134,63,1,Not Placed,NA,0.0,0,2025-07-29
+135,135,73,2,Not Placed,NA,0.0,0,2025-07-29
+136,136,94,0,Placed,Bailey Ltd,3.66,5,2025-05-10
+137,137,78,1,Placed,"Black, Wright and Newton",9.12,2,2025-06-09
+138,138,58,0,Not Placed,NA,0.0,0,2025-07-29
+139,139,69,1,Placed,Jones-Khan,7.69,3,2025-07-07
+140,140,50,1,Placed,Hughes LLC,3.98,2,2025-03-10
+141,141,91,2,Placed,Green-Taylor,6.19,1,2025-04-08
+142,142,76,2,Not Placed,NA,0.0,0,2025-07-29
+143,143,50,0,Placed,Dorsey-Cooke,12.74,5,2025-05-13
+144,144,99,1,Not Placed,NA,0.0,0,2025-07-29
+145,145,100,2,Placed,"Mcbride, Murphy and Moore",6.26,4,2025-06-16
+146,146,91,0,Placed,"Smith, Ellis and Peterson",7.87,3,2025-02-21
+147,147,63,3,Placed,"Mccoy, Parsons and Johnson",12.29,2,2025-04-12
+148,148,92,2,Not Placed,NA,0.0,0,2025-07-29
+149,149,96,0,Placed,"Hopkins, Combs and Murillo",3.6,4,2025-02-10
+150,150,48,3,Not Placed,NA,0.0,0,2025-07-29
+151,151,86,3,Placed,"Williams, Roy and Reese",12.76,5,2025-03-22
+152,152,83,1,Not Placed,NA,0.0,0,2025-07-29
+153,153,66,0,Placed,Wilson-Hill,14.31,3,2025-01-19
+154,154,78,2,Placed,Gibson-Rocha,3.18,3,2025-05-25
+155,155,72,1,Not Placed,NA,0.0,0,2025-07-29
+156,156,40,3,Not Placed,NA,0.0,0,2025-07-29
+157,157,72,3,Placed,"Jordan, Griffin and Anderson",11.94,5,2025-02-22
+158,158,56,2,Placed,Hall PLC,3.53,5,2025-03-13
+159,159,52,1,Not Placed,NA,0.0,0,2025-07-29
+160,160,53,3,Not Placed,NA,0.0,0,2025-07-29
+161,161,51,1,Not Placed,NA,0.0,0,2025-07-29
+162,162,56,0,Placed,Wallace PLC,9.52,5,2025-01-08
+163,163,73,0,Placed,"Hill, Evans and Villegas",8.05,3,2025-03-26
+164,164,80,3,Not Placed,NA,0.0,0,2025-07-29
+165,165,46,3,Not Placed,NA,0.0,0,2025-07-29
+166,166,60,3,Placed,Soto LLC,5.93,2,2025-04-08
+167,167,76,3,Placed,Garcia Ltd,3.07,4,2025-01-20
+168,168,67,2,Not Placed,NA,0.0,0,2025-07-29
+169,169,97,3,Placed,Strickland-Kennedy,5.28,4,2025-05-05
+170,170,79,1,Placed,Perkins Ltd,4.51,4,2025-06-02
+171,171,58,3,Placed,"Keller, George and Herrera",5.47,1,2025-02-10
+172,172,94,3,Placed,"White, Mccarty and Suarez",7.68,5,2025-07-12
+173,173,95,2,Not Placed,NA,0.0,0,2025-07-29
+174,174,54,3,Not Placed,NA,0.0,0,2025-07-29
+175,175,65,2,Placed,"Jones, Green and Davis",12.95,1,2025-01-22
+176,176,47,2,Not Placed,NA,0.0,0,2025-07-29
+177,177,91,3,Placed,Guerrero Group,14.32,1,2025-01-04
+178,178,74,3,Placed,Webb and Sons,8.56,2,2025-03-07
+179,179,49,2,Not Placed,NA,0.0,0,2025-07-29
+180,180,68,0,Placed,Harper LLC,8.04,1,2025-05-20
+181,181,53,0,Placed,Smith-Gardner,11.2,2,2025-03-02
+182,182,78,2,Placed,Cummings-Collins,10.34,2,2025-05-20
+183,183,65,3,Placed,Rocha-Tucker,10.52,3,2025-02-15
+184,184,66,0,Not Placed,NA,0.0,0,2025-07-29
+185,185,93,1,Not Placed,NA,0.0,0,2025-07-29
+186,186,62,3,Not Placed,NA,0.0,0,2025-07-29
+187,187,68,1,Not Placed,NA,0.0,0,2025-07-29
+188,188,82,0,Not Placed,NA,0.0,0,2025-07-29
+189,189,97,1,Placed,Chavez-Ray,7.26,5,2025-07-22
+190,190,51,1,Not Placed,NA,0.0,0,2025-07-29
+191,191,43,0,Placed,Ross and Sons,10.3,2,2025-07-14
+192,192,42,2,Not Placed,NA,0.0,0,2025-07-29
+193,193,94,0,Not Placed,NA,0.0,0,2025-07-29
+194,194,88,3,Placed,"Bullock, Brown and Guzman",5.42,3,2025-07-14
+195,195,58,3,Not Placed,NA,0.0,0,2025-07-29
+196,196,42,0,Not Placed,NA,0.0,0,2025-07-29
+197,197,54,2,Not Placed,NA,0.0,0,2025-07-29
+198,198,67,0,Placed,"Fox, Ellison and Jimenez",4.18,1,2025-01-06
+199,199,73,1,Placed,Benton-Salinas,11.43,3,2025-06-12
+200,200,91,3,Placed,Stanley LLC,9.51,5,2025-03-28
+201,201,50,2,Placed,"Turner, Love and Green",10.45,2,2025-01-22
+202,202,79,3,Placed,Malone-Kline,9.28,5,2025-01-29
+203,203,44,3,Not Placed,NA,0.0,0,2025-07-29
+204,204,79,3,Placed,Peters-Andrade,4.56,2,2025-07-10
+205,205,65,2,Not Placed,NA,0.0,0,2025-07-29
+206,206,90,1,Placed,"Dickson, Montoya and Salazar",9.14,1,2025-01-28
+207,207,53,1,Not Placed,NA,0.0,0,2025-07-29
+208,208,99,0,Not Placed,NA,0.0,0,2025-07-29
+209,209,72,3,Placed,Keller-Woods,4.27,3,2025-04-17
+210,210,65,3,Placed,"Jones, Brooks and Thomas",8.15,5,2025-01-05
+211,211,46,0,Not Placed,NA,0.0,0,2025-07-29
+212,212,56,1,Not Placed,NA,0.0,0,2025-07-29
+213,213,96,3,Placed,Cooper Inc,6.28,3,2025-03-19
+214,214,57,1,Placed,"Mcdonald, Duran and Reyes",7.38,5,2025-01-03
+215,215,51,1,Placed,Wyatt Inc,6.91,5,2025-02-11
+216,216,89,3,Not Placed,NA,0.0,0,2025-07-29
+217,217,63,1,Not Placed,NA,0.0,0,2025-07-29
+218,218,86,0,Placed,"Mclean, Alvarez and King",9.5,5,2025-06-01
+219,219,94,2,Placed,Gilmore PLC,7.94,1,2025-05-26
+220,220,52,1,Not Placed,NA,0.0,0,2025-07-29
+221,221,93,0,Placed,Singleton-Garcia,3.11,5,2025-01-10
+222,222,71,1,Not Placed,NA,0.0,0,2025-07-29
+223,223,85,0,Placed,"Davis, Ball and Johnson",4.68,3,2025-01-30
+224,224,53,2,Placed,"Lewis, Thompson and Hudson",8.26,5,2025-02-10
+225,225,73,3,Not Placed,NA,0.0,0,2025-07-29
+226,226,56,1,Placed,Taylor-Suarez,8.82,3,2025-06-29
+227,227,41,1,Not Placed,NA,0.0,0,2025-07-29
+228,228,69,1,Not Placed,NA,0.0,0,2025-07-29
+229,229,95,1,Not Placed,NA,0.0,0,2025-07-29
+230,230,76,0,Placed,"Chapman, Ramirez and Werner",10.15,3,2025-05-23
+231,231,50,3,Placed,Martinez and Sons,9.17,3,2025-07-03
+232,232,49,0,Placed,Brown Group,5.93,4,2025-01-27
+233,233,78,1,Placed,Valencia LLC,3.9,1,2025-02-15
+234,234,61,1,Placed,"Castro, Martinez and Salazar",7.57,3,2025-04-30
+235,235,43,0,Not Placed,NA,0.0,0,2025-07-29
+236,236,99,2,Not Placed,NA,0.0,0,2025-07-29
+237,237,81,1,Placed,"Snyder, Clark and Martinez",14.31,3,2025-03-29
+238,238,96,0,Not Placed,NA,0.0,0,2025-07-29
+239,239,97,1,Placed,Roberson LLC,14.02,4,2025-07-01
+240,240,75,2,Not Placed,NA,0.0,0,2025-07-29
+241,241,81,3,Not Placed,NA,0.0,0,2025-07-29
+242,242,61,1,Not Placed,NA,0.0,0,2025-07-29
+243,243,80,0,Placed,Gonzalez-Grant,11.38,3,2025-06-15
+244,244,85,1,Not Placed,NA,0.0,0,2025-07-29
+245,245,86,2,Placed,Walker-Anderson,8.09,3,2025-06-16
+246,246,84,1,Placed,Brown Group,6.51,4,2025-05-04
+247,247,61,1,Not Placed,NA,0.0,0,2025-07-29
+248,248,53,3,Not Placed,NA,0.0,0,2025-07-29
+249,249,59,0,Not Placed,NA,0.0,0,2025-07-29
+250,250,44,2,Not Placed,NA,0.0,0,2025-07-29
+251,251,96,3,Placed,Simmons and Sons,8.31,4,2025-07-27
+252,252,63,2,Not Placed,NA,0.0,0,2025-07-29
+253,253,91,2,Placed,Quinn Ltd,12.33,5,2025-05-21
+254,254,58,0,Placed,Marquez Ltd,12.94,4,2025-02-08
+255,255,56,0,Placed,Snyder and Sons,4.42,1,2025-01-03
+256,256,48,1,Placed,"Watson, Ward and Brock",12.13,4,2025-04-05
+257,257,41,3,Placed,Stanley PLC,6.84,1,2025-02-23
+258,258,76,0,Placed,Delacruz-Obrien,9.84,5,2025-03-31
+259,259,88,1,Not Placed,NA,0.0,0,2025-07-29
+260,260,95,3,Placed,Wilson-Walker,14.62,5,2025-01-31
+261,261,91,1,Placed,Roberts-Reed,13.72,4,2025-03-06
+262,262,45,2,Placed,Ochoa Group,13.56,5,2025-02-16
+263,263,79,2,Not Placed,NA,0.0,0,2025-07-29
+264,264,44,0,Not Placed,NA,0.0,0,2025-07-29
+265,265,93,2,Not Placed,NA,0.0,0,2025-07-29
+266,266,54,0,Placed,Jones-Garza,11.1,4,2025-01-01
+267,267,94,3,Placed,Dalton-Cortez,10.17,4,2025-07-20
+268,268,90,0,Not Placed,NA,0.0,0,2025-07-29
+269,269,49,1,Not Placed,NA,0.0,0,2025-07-29
+270,270,87,0,Not Placed,NA,0.0,0,2025-07-29
+271,271,91,3,Placed,"Marshall, Flores and Martinez",13.97,3,2025-03-05
+272,272,47,1,Placed,Mcgee PLC,14.95,4,2025-04-04
+273,273,71,3,Placed,Olson-White,13.99,1,2025-06-02
+274,274,92,3,Not Placed,NA,0.0,0,2025-07-29
+275,275,94,2,Placed,Hoover Inc,5.8,4,2025-01-15
+276,276,94,3,Placed,Ramirez Group,5.91,1,2025-03-31
+277,277,40,3,Not Placed,NA,0.0,0,2025-07-29
+278,278,88,2,Placed,Delgado Inc,6.16,2,2025-03-02
+279,279,99,3,Not Placed,NA,0.0,0,2025-07-29
+280,280,72,0,Not Placed,NA,0.0,0,2025-07-29
+281,281,68,1,Placed,"Wilson, Pacheco and Evans",12.38,4,2025-07-20
+282,282,97,2,Placed,Roberts-Nunez,7.16,1,2025-02-10
+283,283,95,3,Placed,Park-Holmes,3.17,3,2025-02-08
+284,284,74,3,Placed,Molina-Robinson,3.72,3,2025-04-16
+285,285,86,3,Not Placed,NA,0.0,0,2025-07-29
+286,286,63,2,Placed,Newman and Sons,7.11,2,2025-04-14
+287,287,50,2,Not Placed,NA,0.0,0,2025-07-29
+288,288,70,3,Not Placed,NA,0.0,0,2025-07-29
+289,289,74,0,Placed,"Young, Lopez and Davenport",3.45,4,2025-01-08
+290,290,83,0,Not Placed,NA,0.0,0,2025-07-29
+291,291,75,3,Not Placed,NA,0.0,0,2025-07-29
+292,292,49,1,Placed,Hale Group,4.38,1,2025-01-29
+293,293,57,1,Not Placed,NA,0.0,0,2025-07-29
+294,294,61,3,Placed,Martin-Castillo,11.49,5,2025-03-08
+295,295,92,1,Placed,Floyd-Thomas,11.24,5,2025-07-11
+296,296,85,3,Placed,Fox Inc,4.39,5,2025-03-19
+297,297,57,2,Not Placed,NA,0.0,0,2025-07-29
+298,298,52,1,Not Placed,NA,0.0,0,2025-07-29
+299,299,89,1,Placed,Bradley-Evans,13.08,1,2025-03-14
+300,300,45,2,Not Placed,NA,0.0,0,2025-07-29
+301,301,99,2,Placed,Ball Inc,13.69,2,2025-01-09
+302,302,53,0,Not Placed,NA,0.0,0,2025-07-29
+303,303,74,3,Not Placed,NA,0.0,0,2025-07-29
+304,304,61,1,Not Placed,NA,0.0,0,2025-07-29
+305,305,97,3,Not Placed,NA,0.0,0,2025-07-29
+306,306,61,0,Not Placed,NA,0.0,0,2025-07-29
+307,307,75,0,Placed,Quinn-Baxter,11.24,2,2025-03-11
+308,308,94,2,Placed,"Williams, Taylor and James",6.46,2,2025-03-07
+309,309,80,0,Not Placed,NA,0.0,0,2025-07-29
+310,310,48,0,Not Placed,NA,0.0,0,2025-07-29
+311,311,87,3,Placed,Andersen Ltd,9.34,5,2025-07-10
+312,312,93,0,Placed,Thompson and Sons,8.74,4,2025-06-26
+313,313,52,3,Placed,Haynes and Sons,11.94,5,2025-07-17
+314,314,79,2,Not Placed,NA,0.0,0,2025-07-29
+315,315,44,0,Placed,Byrd and Sons,14.05,2,2025-03-29
+316,316,96,0,Placed,Coleman-Stokes,14.14,1,2025-05-25
+317,317,46,3,Not Placed,NA,0.0,0,2025-07-29
+318,318,53,3,Not Placed,NA,0.0,0,2025-07-29
+319,319,72,0,Placed,"Salas, Moran and Warren",4.95,4,2025-01-28
+320,320,93,3,Placed,Harper-Mcgrath,9.0,5,2025-05-19
+321,321,61,3,Not Placed,NA,0.0,0,2025-07-29
+322,322,55,1,Not Placed,NA,0.0,0,2025-07-29
+323,323,67,0,Not Placed,NA,0.0,0,2025-07-29
+324,324,48,1,Placed,"Jackson, Rose and Lee",9.96,5,2025-06-08
+325,325,60,0,Not Placed,NA,0.0,0,2025-07-29
+326,326,62,0,Placed,"Thomas, Phillips and Scott",14.6,1,2025-01-15
+327,327,77,3,Not Placed,NA,0.0,0,2025-07-29
+328,328,43,3,Placed,Merritt-Dixon,13.25,2,2025-02-09
+329,329,62,3,Not Placed,NA,0.0,0,2025-07-29
+330,330,57,0,Not Placed,NA,0.0,0,2025-07-29
+331,331,94,0,Placed,Foster-Mcdonald,6.14,1,2025-02-19
+332,332,96,2,Not Placed,NA,0.0,0,2025-07-29
+333,333,83,2,Placed,Delacruz-Bradshaw,7.25,3,2025-02-05
+334,334,95,3,Not Placed,NA,0.0,0,2025-07-29
+335,335,84,2,Not Placed,NA,0.0,0,2025-07-29
+336,336,79,0,Not Placed,NA,0.0,0,2025-07-29
+337,337,68,3,Not Placed,NA,0.0,0,2025-07-29
+338,338,86,2,Placed,Aguilar Inc,14.69,2,2025-07-14
+339,339,69,3,Placed,Huang-Smith,4.15,3,2025-01-03
+340,340,76,0,Placed,"Miller, Williams and Daniels",11.9,3,2025-01-29
+341,341,68,2,Not Placed,NA,0.0,0,2025-07-29
+342,342,93,3,Placed,Hensley Ltd,13.06,1,2025-04-11
+343,343,55,0,Placed,Peterson-Vasquez,6.78,2,2025-06-10
+344,344,70,3,Not Placed,NA,0.0,0,2025-07-29
+345,345,97,1,Placed,Henson PLC,10.9,1,2025-03-31
+346,346,58,3,Placed,"Zamora, Bailey and Hines",9.26,2,2025-05-29
+347,347,46,2,Not Placed,NA,0.0,0,2025-07-29
+348,348,58,2,Not Placed,NA,0.0,0,2025-07-29
+349,349,67,2,Not Placed,NA,0.0,0,2025-07-29
+350,350,84,0,Not Placed,NA,0.0,0,2025-07-29
+351,351,57,2,Placed,Banks PLC,9.62,2,2025-06-23
+352,352,49,3,Not Placed,NA,0.0,0,2025-07-29
+353,353,49,2,Not Placed,NA,0.0,0,2025-07-29
+354,354,73,2,Placed,Hansen-Morton,6.47,3,2025-03-13
+355,355,93,3,Not Placed,NA,0.0,0,2025-07-29
+356,356,62,0,Not Placed,NA,0.0,0,2025-07-29
+357,357,58,2,Not Placed,NA,0.0,0,2025-07-29
+358,358,84,1,Not Placed,NA,0.0,0,2025-07-29
+359,359,92,0,Not Placed,NA,0.0,0,2025-07-29
+360,360,62,2,Placed,"Bell, Romero and Lowery",12.31,1,2025-06-16
+361,361,57,0,Not Placed,NA,0.0,0,2025-07-29
+362,362,63,3,Not Placed,NA,0.0,0,2025-07-29
+363,363,42,3,Placed,Cortez-Cross,7.59,5,2025-05-08
+364,364,64,1,Not Placed,NA,0.0,0,2025-07-29
+365,365,46,1,Placed,"Trevino, Perez and Jones",8.4,3,2025-03-01
+366,366,41,3,Placed,Anderson-Smith,7.26,5,2025-07-23
+367,367,45,1,Not Placed,NA,0.0,0,2025-07-29
+368,368,81,1,Placed,"Gay, Martin and Moore",9.72,4,2025-02-18
+369,369,52,1,Not Placed,NA,0.0,0,2025-07-29
+370,370,97,2,Not Placed,NA,0.0,0,2025-07-29
+371,371,72,3,Not Placed,NA,0.0,0,2025-07-29
+372,372,41,2,Not Placed,NA,0.0,0,2025-07-29
+373,373,75,1,Not Placed,NA,0.0,0,2025-07-29
+374,374,71,0,Not Placed,NA,0.0,0,2025-07-29
+375,375,85,0,Not Placed,NA,0.0,0,2025-07-29
+376,376,58,1,Not Placed,NA,0.0,0,2025-07-29
+377,377,58,2,Not Placed,NA,0.0,0,2025-07-29
+378,378,54,1,Not Placed,NA,0.0,0,2025-07-29
+379,379,63,1,Placed,Carter-Jennings,10.9,4,2025-02-11
+380,380,82,3,Placed,"Davis, Jones and Garcia",6.19,1,2025-07-05
+381,381,96,0,Not Placed,NA,0.0,0,2025-07-29
+382,382,56,1,Not Placed,NA,0.0,0,2025-07-29
+383,383,99,0,Not Placed,NA,0.0,0,2025-07-29
+384,384,41,2,Placed,Rice-Wood,5.95,1,2025-06-01
+385,385,70,3,Not Placed,NA,0.0,0,2025-07-29
+386,386,64,1,Not Placed,NA,0.0,0,2025-07-29
+387,387,77,2,Placed,"Hood, Wall and Dickson",3.25,5,2025-05-21
+388,388,84,1,Placed,Wheeler Ltd,14.42,4,2025-04-02
+389,389,90,1,Not Placed,NA,0.0,0,2025-07-29
+390,390,71,2,Placed,Robinson Group,13.73,2,2025-07-28
+391,391,94,3,Not Placed,NA,0.0,0,2025-07-29
+392,392,74,2,Not Placed,NA,0.0,0,2025-07-29
+393,393,43,0,Placed,Shah PLC,12.09,2,2025-01-18
+394,394,84,0,Placed,"Osborne, Lewis and Gibson",10.81,5,2025-03-29
+395,395,94,2,Placed,"Tran, Nelson and Wilkinson",7.74,4,2025-06-14
+396,396,87,3,Placed,Carpenter LLC,6.45,4,2025-05-13
+397,397,99,3,Not Placed,NA,0.0,0,2025-07-29
+398,398,64,0,Not Placed,NA,0.0,0,2025-07-29
+399,399,51,0,Not Placed,NA,0.0,0,2025-07-29
+400,400,61,1,Placed,"Hanson, Hicks and Martin",12.97,2,2025-04-10
+401,401,55,3,Not Placed,NA,0.0,0,2025-07-29
+402,402,51,1,Placed,Herman LLC,6.36,4,2025-05-27
+403,403,50,3,Not Placed,NA,0.0,0,2025-07-29
+404,404,44,3,Not Placed,NA,0.0,0,2025-07-29
+405,405,56,3,Placed,"Bennett, Mckenzie and Thompson",7.02,5,2025-07-24
+406,406,97,2,Placed,"Shelton, Shaffer and Buchanan",8.68,2,2025-02-19
+407,407,71,2,Not Placed,NA,0.0,0,2025-07-29
+408,408,99,3,Not Placed,NA,0.0,0,2025-07-29
+409,409,61,3,Placed,Pruitt-Manning,3.59,5,2025-06-07
+410,410,50,3,Not Placed,NA,0.0,0,2025-07-29
+411,411,48,0,Not Placed,NA,0.0,0,2025-07-29
+412,412,83,0,Not Placed,NA,0.0,0,2025-07-29
+413,413,81,2,Not Placed,NA,0.0,0,2025-07-29
+414,414,91,2,Placed,"George, Norton and Bell",11.15,5,2025-03-20
+415,415,85,0,Not Placed,NA,0.0,0,2025-07-29
+416,416,66,1,Placed,Ramos Ltd,4.06,4,2025-04-04
+417,417,44,1,Not Placed,NA,0.0,0,2025-07-29
+418,418,85,0,Placed,"Jacobs, Evans and Noble",12.51,4,2025-07-06
+419,419,47,0,Placed,Hamilton Ltd,10.09,3,2025-01-27
+420,420,68,3,Placed,Miller and Sons,11.48,5,2025-03-05
+421,421,53,1,Placed,"Jensen, Garrison and Myers",10.3,4,2025-01-26
+422,422,43,0,Not Placed,NA,0.0,0,2025-07-29
+423,423,65,2,Not Placed,NA,0.0,0,2025-07-29
+424,424,96,2,Placed,"Miller, Ford and Beasley",9.03,2,2025-07-18
+425,425,73,3,Placed,Blackwell-Weaver,4.74,2,2025-03-01
+426,426,68,0,Not Placed,NA,0.0,0,2025-07-29
+427,427,83,1,Placed,"Barnes, Carter and Barrett",4.31,3,2025-01-04
+428,428,66,2,Not Placed,NA,0.0,0,2025-07-29
+429,429,44,1,Not Placed,NA,0.0,0,2025-07-29
+430,430,79,2,Not Placed,NA,0.0,0,2025-07-29
+431,431,79,1,Not Placed,NA,0.0,0,2025-07-29
+432,432,49,3,Not Placed,NA,0.0,0,2025-07-29
+433,433,73,0,Placed,"Lawson, Gillespie and Maldonado",5.05,1,2025-07-10
+434,434,100,2,Not Placed,NA,0.0,0,2025-07-29
+435,435,56,3,Not Placed,NA,0.0,0,2025-07-29
+436,436,80,0,Placed,Morales Ltd,3.21,5,2025-03-11
+437,437,46,0,Not Placed,NA,0.0,0,2025-07-29
+438,438,55,3,Placed,"Butler, York and Jimenez",6.72,4,2025-01-24
+439,439,54,1,Not Placed,NA,0.0,0,2025-07-29
+440,440,72,2,Placed,Oneill-Contreras,9.35,3,2025-01-06
+441,441,86,1,Placed,Howard Ltd,4.86,1,2025-02-14
+442,442,89,2,Placed,Phelps Group,14.91,5,2025-01-20
+443,443,68,2,Placed,Ferguson-Hunt,4.03,2,2025-06-16
+444,444,67,0,Placed,Torres PLC,3.88,2,2025-07-13
+445,445,51,0,Not Placed,NA,0.0,0,2025-07-29
+446,446,49,3,Not Placed,NA,0.0,0,2025-07-29
+447,447,93,3,Not Placed,NA,0.0,0,2025-07-29
+448,448,45,1,Not Placed,NA,0.0,0,2025-07-29
+449,449,65,2,Not Placed,NA,0.0,0,2025-07-29
+450,450,91,3,Not Placed,NA,0.0,0,2025-07-29
+451,451,81,3,Not Placed,NA,0.0,0,2025-07-29
+452,452,43,2,Not Placed,NA,0.0,0,2025-07-29
+453,453,79,1,Not Placed,NA,0.0,0,2025-07-29
+454,454,68,0,Placed,Foley and Sons,8.76,5,2025-03-11
+455,455,84,1,Not Placed,NA,0.0,0,2025-07-29
+456,456,73,3,Placed,Dickerson PLC,10.44,4,2025-06-05
+457,457,82,0,Placed,French Inc,10.22,4,2025-07-25
+458,458,82,2,Placed,"Durham, Kaiser and Berry",5.62,4,2025-04-02
+459,459,96,2,Not Placed,NA,0.0,0,2025-07-29
+460,460,73,1,Placed,Alvarado Group,12.32,4,2025-05-17
+461,461,66,3,Not Placed,NA,0.0,0,2025-07-29
+462,462,61,2,Placed,Shaw-Atkins,10.77,1,2025-05-09
+463,463,77,1,Placed,"Ray, Martin and Boone",5.27,2,2025-04-27
+464,464,41,0,Placed,Ford-Cameron,8.64,5,2025-04-29
+465,465,95,2,Not Placed,NA,0.0,0,2025-07-29
+466,466,82,2,Not Placed,NA,0.0,0,2025-07-29
+467,467,95,0,Not Placed,NA,0.0,0,2025-07-29
+468,468,95,2,Placed,Figueroa-Miller,13.43,2,2025-05-11
+469,469,98,0,Not Placed,NA,0.0,0,2025-07-29
+470,470,51,0,Not Placed,NA,0.0,0,2025-07-29
+471,471,48,2,Not Placed,NA,0.0,0,2025-07-29
+472,472,97,1,Placed,"Logan, Harmon and Bryan",14.27,1,2025-04-29
+473,473,48,0,Not Placed,NA,0.0,0,2025-07-29
+474,474,86,3,Placed,"Acosta, Christian and Collins",10.11,1,2025-05-25
+475,475,68,3,Placed,Martin-Alexander,3.52,2,2025-03-13
+476,476,66,0,Not Placed,NA,0.0,0,2025-07-29
+477,477,48,3,Not Placed,NA,0.0,0,2025-07-29
+478,478,95,1,Placed,Ramirez Group,3.48,4,2025-06-14
+479,479,53,1,Placed,"Curry, Graham and Mullins",7.07,3,2025-03-13
+480,480,92,3,Placed,"Spencer, Carlson and Hess",14.75,4,2025-05-25
+481,481,95,3,Not Placed,NA,0.0,0,2025-07-29
+482,482,55,3,Placed,Walter Group,12.42,5,2025-05-09
+483,483,54,1,Not Placed,NA,0.0,0,2025-07-29
+484,484,88,0,Placed,"Atkinson, Pugh and Hunter",14.01,2,2025-05-08
+485,485,80,2,Placed,"Hays, Acosta and Johnston",7.66,1,2025-01-02
+486,486,96,3,Not Placed,NA,0.0,0,2025-07-29
+487,487,43,1,Not Placed,NA,0.0,0,2025-07-29
+488,488,55,2,Placed,Smith-Ramirez,11.81,5,2025-06-27
+489,489,99,0,Placed,Mcbride Group,9.91,3,2025-01-02
+490,490,69,0,Not Placed,NA,0.0,0,2025-07-29
+491,491,77,2,Not Placed,NA,0.0,0,2025-07-29
+492,492,69,0,Placed,"Castro, Alexander and Roman",7.83,5,2025-07-05
+493,493,82,2,Not Placed,NA,0.0,0,2025-07-29
+494,494,63,1,Not Placed,NA,0.0,0,2025-07-29
+495,495,44,3,Not Placed,NA,0.0,0,2025-07-29
+496,496,76,2,Not Placed,NA,0.0,0,2025-07-29
+497,497,42,2,Not Placed,NA,0.0,0,2025-07-29
+498,498,93,1,Not Placed,NA,0.0,0,2025-07-29
+499,499,41,2,Not Placed,NA,0.0,0,2025-07-29
+500,500,58,2,Not Placed,NA,0.0,0,2025-07-29
