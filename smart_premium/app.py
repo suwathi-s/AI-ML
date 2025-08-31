@@ -7,7 +7,7 @@ import numpy as np
 # ----------------------------
 # Load Local Model (Pickle)
 # ----------------------------
-MODEL_PATH = "XGBoost_pipeline_model.pkl"  # saved from train.py
+MODEL_PATH =os.path.join("smart_premium", "XGBoost_pipeline_model.pkl")  # saved from train.py
 
 if os.path.exists(MODEL_PATH):
     model = joblib.load(MODEL_PATH)
@@ -78,3 +78,4 @@ if st.button("Predict Premium"):
         st.success(f"💰 Estimated Insurance Premium: ₹ {prediction:,.2f}")
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
+
