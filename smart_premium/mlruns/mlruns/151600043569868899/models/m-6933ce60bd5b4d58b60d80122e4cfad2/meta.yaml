@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91902/OneDrive/Desktop/smart_premium/mlruns/151600043569868899/models/m-6933ce60bd5b4d58b60d80122e4cfad2/artifacts
+creation_timestamp: 1756481655563
+experiment_id: '151600043569868899'
+last_updated_timestamp: 1756481661375
+model_id: m-6933ce60bd5b4d58b60d80122e4cfad2
+model_type: null
+name: XGBoost_model
+source_run_id: add34dd0f0d44e89aa650ed6ee3dd2fe
+status: 2
+status_message: null
