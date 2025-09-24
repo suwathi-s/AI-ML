@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91902/OneDrive/Desktop/smart_premium/mlruns/151600043569868899/add34dd0f0d44e89aa650ed6ee3dd2fe/artifacts
+end_time: 1756481665240
+entry_point_name: ''
+experiment_id: '151600043569868899'
+lifecycle_stage: active
+run_id: add34dd0f0d44e89aa650ed6ee3dd2fe
+run_name: XGBoost_Insurance
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756481655533
+status: 3
+tags: []
+user_id: '91902'
