@@ -137,5 +137,6 @@ Recall
 
 ##  Author
 Suwathi
+
 Solar Panel Defect Detection Project — Deep Learning + YOLOv8
 
