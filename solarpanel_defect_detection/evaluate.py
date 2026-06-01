@@ -16,9 +16,9 @@ RESULTS_DIR = "results"
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
-# ======================
+# =====================
 # Load model
-# ======================
+# =====================
 print("Loading model...")
 model = keras.models.load_model(MODEL_PATH)
 print("Model loaded!")
