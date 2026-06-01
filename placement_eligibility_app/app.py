@@ -120,7 +120,7 @@ selected_query_label = st.selectbox("Choose a Query", list(query_options.keys())
 if st.button("🔍 Show Query Result"):
     query = query_options[selected_query_label]
 
-    # --- Fix: Smart batch filter injection ---
+    # -- Fix: Smart batch filter injection --
     if selected_batch != "All" and "s.course_batch" in query:
         if "WHERE" in query.upper():
             if "GROUP BY" in query.upper():
