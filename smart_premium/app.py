@@ -4,9 +4,9 @@ import joblib
 import os
 import numpy as np
 
-# ----------------------------
+# ---------------------------
 # Load Local Model (Pickle)
-# ----------------------------
+# ---------------------------
 MODEL_PATH =os.path.join("smart_premium", "XGBoost_pipeline_model.pkl")  # saved from train.py
 
 if os.path.exists(MODEL_PATH):
