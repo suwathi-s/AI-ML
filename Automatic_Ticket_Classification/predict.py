@@ -16,9 +16,9 @@ model = load_model("models/best_lstm.h5")
 
 MAX_LEN = 300  # must match preprocess.py
 
-# ===============================  
+# ==============================  
 # Predict Function  
-# ===============================
+# ==============================
 def predict_ticket(text):
     seq = tokenizer.texts_to_sequences([text])
     padded = pad_sequences(seq, maxlen=MAX_LEN, padding="post")
