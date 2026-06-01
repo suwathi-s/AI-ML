@@ -28,7 +28,7 @@ def export_tables():
         # Convert to DataFrame
         df = pd.DataFrame(rows, columns=columns)
 
-        # Save to CSV
+        # -- Save to CSV --
         file_path = os.path.join(export_dir, f"{table}.csv")
         df.to_csv(file_path, index=False)
         print(f"Exported {table} → {file_path}")
