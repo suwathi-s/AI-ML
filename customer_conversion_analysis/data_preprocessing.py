@@ -6,9 +6,9 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
-# -----------------------------
+# ----------------------------
 # 1. Load Data
-# -----------------------------
+# ----------------------------
 data = pd.read_csv(r"C:\Users\91902\OneDrive\Desktop\customer conversion analysis\train_data.csv")
 
 # Quick look
